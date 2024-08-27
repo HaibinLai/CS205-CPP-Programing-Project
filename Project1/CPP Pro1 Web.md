@@ -600,14 +600,22 @@ GMP 非常的恐怖，里边的历史日志真的从 1991 年开始记录，一�
 ## Reference
 
 [1] PostgreSQL Global Development Group. (2024.3). PostgreSQL: Documentation: Main Page. Retrieved from https://doxygen.postgresql.org/
+
 [2] GMP Project. (2023.7). GMP, Arithmetic without limitations: The GNU Multiple Precision
 Arithmetic Library. Retrieved from https://gmplib.org/
+
 [3] "IEEE Standard for Binary Floating-Point Arithmetic," in ANSI/IEEE Std 754-1985 , vol., no., pp.1-20, 12 Oct. 1985, doi: 10.1109/IEEESTD.1985.82928. keywords: {Digital
-arithmetic;Standards;binary;Floating-point arithmetic}, [4] IEEE Standard 754 for Binary Floating-Point Arithmetic. (1997.10). Retrieved from
+arithmetic;Standards;binary;Floating-point arithmetic}, 
+
+[4] IEEE Standard 754 for Binary Floating-Point Arithmetic. (1997.10). Retrieved from
 https://people.eecs.berkeley.edu/~wkahan/ieee754status/IEEE754.PDF
+
 [5] Burger, Robert G. and R. Kent Dybvig. “ Printing floating-point numbers quickly and
 accurately. ” ACM-SIGPLAN Symposium on Programming Language Design and
-Implementation (1996). [6] CUDA C Programming Guide. Retrived from
+Implementation (1996).
+
+[6] CUDA C Programming Guide. Retrived from
 https://docs.nvidia.cn/cuda/cuda-c-programming-guide/contents.html
+
 [7] Using OpenMP with C. Retrived from
 https://curc.readthedocs.io/en/latest/programming/OpenMP-C.html
