@@ -5,6 +5,7 @@
 ------------
 PDF 版本：[Project1赖海斌](https://www.haibinlaiblog.top/wp-content/uploads/2024/08/Project1赖海斌.pdf "Project1赖海斌")
 Github: https://github.com/HaibinLai/CS205-CPP-Programing-Project
+Web: https://rococo-bunny-688efa.netlify.app
 
 ## **摘要**
 在本次 Project 中，我初步用C 实现了一个简单的计算器，可以简单地完成项目需求。 在计算器的输入有效数字小于 8 位时，我阅读了 **IEEE****754** **标准**，使用 double 的加减法进行 运算。在计算器输入数字大于 8 位时，我**借鉴了** **Postgresql** **数据库**中 numeric 的实现方法， 使用**数组**进行精确计算。我注意到**内存泄露**的问题，并构建了一个内存控制检测系统，可以 减少我的内存泄露。另外，我学习了解了 **OpenMP** **与** **CUDA** 编程上，各自写了一个乘法方 法，可惜由于身体原因没能测试性能。除此之外，我了解了大整数乘法等计算器在现代的应 用，比如在密码学中的加密，科学计算等。我也了解了算法，比如 **Karatsuba** 乘法算法。
