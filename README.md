@@ -2,6 +2,8 @@
 
 Haibin Lai 12211612
 
+My Project Website: [CPP](https://main--haibincpp1.netlify.app)
+
 Semester: 2024 Spring;     Lecturer: Prof. Shiqi Yu
 
 | **Project** | **Name**                            | **Description** | **Important Point**                                | **Classification**       | **Score** |
