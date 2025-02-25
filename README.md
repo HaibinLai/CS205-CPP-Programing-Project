@@ -33,6 +33,6 @@ C/C++的Project是变化的，每年计算器、矩阵、神经网络都会轮�
 
 Project不是卷起来的，而是学到了的。知道了它真正的意图，我们才能像头号玩家里的主角，破解“于”的奥秘，发现游戏里的彩蛋，找到属于自己的知识与财富。
 
-## CPP Course Website
+## Official CPP Course Repo
 
 https://github.com/ShiqiYu/CPP
