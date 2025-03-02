@@ -36,3 +36,8 @@ Project不是卷起来的，而是学到了的。知道了它真正的意图，�
 ## Official CPP Course Repo
 
 https://github.com/ShiqiYu/CPP
+
+
+## Useful Website
+
+【Vadim Pisarevsky详说OpenCV基础数据结构cv::Mat类】 https://www.bilibili.com/video/BV1vm4y1Z78D/?share_source=copy_web&vd_source=72eac555730ba7e7a64f9fa1d7f2b2d4
