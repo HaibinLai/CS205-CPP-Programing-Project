@@ -16,6 +16,10 @@ My Project Website: [CPP](https://main--haibincpp1.netlify.app)
 
 Review Video:【慢速学习C++】 [bilibili](https://www.bilibili.com/video/BV1PFf6YGEyW/?share_source=copy_web&vd_source=72eac555730ba7e7a64f9fa1d7f2b2d4)
 
+Course Review: 
+我的review： https://ncesnext.com/course/1161/#review-5562 ; 
+最新课程review： https://ncesnext.com/course/8813/
+
 Semester: 2024 Spring;     Lecturer: Prof. Shiqi Yu
 
 | **Project** | **Name**                            | **Description** | **Important Point**                                | **Classification**       | **Score** |
